@@ -47,7 +47,7 @@ Make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   [git clone https://github.com/gauravag091/weather-app.git]
 
 ## Usage
 1. Open the index.html file in your web browser.
