@@ -49,3 +49,19 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/yourusername/weather-app.git
+
+### Usage
+1. Open the index.html file in your web browser.
+2. Enter the name of a location or a specific city in the search bar.
+3. Click the "Search" button to retrieve weather information for that location.
+4. View the current weather conditions and forecasts on the page.
+5. Feel free to explore the app and check the weather for different places.
+
+###Contributing
+We welcome contributions from the community. If you'd like to contribute to the project, please follow our Contribution Guidelines.
+
+###Contact
+If you have any questions, feedback, or suggestions, please don't hesitate to get in touch:
+
+Email: gauravagarwal091@gmail.com
+
