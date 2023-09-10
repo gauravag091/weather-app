@@ -57,10 +57,10 @@ Make sure you have the following installed:
 4. View the current weather conditions and forecasts on the page.
 5. Feel free to explore the app and check the weather for different places.
 
-###Contributing
+### Contributing
 We welcome contributions from the community. If you'd like to contribute to the project, please follow our Contribution Guidelines.
 
-###Contact
+### Contact
 If you have any questions, feedback, or suggestions, please don't hesitate to get in touch:
 
 Email: gauravagarwal091@gmail.com
